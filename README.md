@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently Working on Improving my problem solving skills , java language and DSA.<br>🌱Java Backend Developer , DSA Enthusiast .<br>👯I'm looking to collaborate on beginer to advanced java based Projects.<br>😄Present , I'm learning java Backend Development and Making Simple Projects based on Java and DSA.<br>💬Ask me About Basic DSA ,Java Fundamentals And Advanced Java .
+🔭I'm currently Working on Improving my problem solving skills , java language and DSA.<br>🌱Java Backend Developer , DSA Enthusiast .<br>👯I'm looking to collaborate on beginer to advanced java based Projects.<br>😄Present , I'm learning java Backend Development and Making Simple Projects based on Java and DSA.<br>💬Ask me About Basic DSA , Java Fundamentals And Advanced Java .
 
 
 ## 🌐 Socials:
